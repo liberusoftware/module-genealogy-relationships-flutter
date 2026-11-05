@@ -1,0 +1,15 @@
+{
+  "repository": "module-genealogy-relationships-flutter",
+  "capabilityKey": "liberusoftware/module-genealogy-relationships",
+  "presentation": "mobile-flutter",
+  "package": "module_genealogy_relationships_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/genealogy/nextjs/relationships.md",
+  "presentationPlan": "projects/genealogy/flutter/relationships.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "genealogy"
+  ]
+}
